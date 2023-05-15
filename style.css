@@ -73,3 +73,16 @@ body {
     padding: 10px;
   }
   
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #eee;
+  border-radius: 30px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #bbbbbb;
+  border-radius: 30px;
+}
